@@ -31,3 +31,12 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+log.txt
+code.zip
+data/
+support_tickets/
+node_modules/
+venv/
+.env
+embeddings.pkl
+__pycache__/
