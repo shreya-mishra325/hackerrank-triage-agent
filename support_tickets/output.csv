@@ -1,0 +1,56 @@
+status,product_area,response,justification,request_type
+escalated,account,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as product_issue/account.,product_issue
+replied,general,"Based on our support documentation:
+
+This guide outlines how to use the Recruitee - HackerRank Integration to send HackerRank test invitations and review test results.",Replied using semantic retrieval (similarity score=0.65). Classified as invalid/general.,invalid
+escalated,billing,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as product_issue/billing.,product_issue
+escalated,billing,We could not find sufficient information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.61). Classified as product_issue/billing.,product_issue
+escalated,billing,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.50). Classified as product_issue/billing.,product_issue
+replied,general,"Based on our support documentation:
+
+It is a good practice to familiarize your Candidates with the HackerRank platform before your hiring process begins. Communicate with your candidates about how HackerRank assessments work, what they can expect, or how long it may take. These practices reduce any surprises for your candidates and hel",Replied using semantic retrieval (similarity score=0.67). Classified as invalid/general.,invalid
+escalated,general,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.39). Classified as invalid/general.,invalid
+escalated,general,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.43). Classified as invalid/general.,invalid
+escalated,technical,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.42). Classified as bug/technical.,bug
+replied,account,"Based on our support documentation:
+
+Would you like to schedule time with a Solutions Engineer(SE) to address your questions about HackerRank? Below are links to schedule time with members of the SE team. Please take a look at the common items cited below.",Replied using semantic retrieval (similarity score=0.61). Classified as product_issue/account.,product_issue
+replied,technical,"Based on our support documentation:
+
+Observation Mode in HackerRank Interviews allows interviewers  to monitor a candidate’s screen activity in real time. This feature operates similarly to screen sharing, enabling you to observe the candidate's progress throughout the interview without interruption.",Replied using semantic retrieval (similarity score=0.54). Classified as bug/technical.,bug
+escalated,technical,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.42). Classified as bug/technical.,bug
+replied,account,"Based on our support documentation:
+
+# Delete an Interview Prerequisites Deleting an Interview",Replied using semantic retrieval (similarity score=0.54). Classified as product_issue/account.,product_issue
+replied,account,"Based on our support documentation:
+
+# Search and Apply for Jobs",Replied using semantic retrieval (similarity score=0.53). Classified as product_issue/account.,product_issue
+escalated,technical,We could not find sufficient information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.74). Classified as bug/technical.,bug
+escalated,security,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as product_issue/security.,product_issue
+replied,technical,"Based on our support documentation:
+
+# Create a Resume with Resume Builder",Replied using semantic retrieval (similarity score=0.63). Classified as bug/technical.,bug
+replied,account,"Based on our support documentation:
+
+**Can I update the name on my certificate?**",Replied using semantic retrieval (similarity score=0.80). Classified as product_issue/account.,product_issue
+escalated,billing,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.41). Classified as product_issue/billing.,product_issue
+escalated,security,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as product_issue/security.,product_issue
+replied,technical,"Based on our support documentation:
+
+# Reporting, Blocking, and Removing Content from Claude",Replied using semantic retrieval (similarity score=0.65). Classified as product_issue/technical.,product_issue
+escalated,billing,We could not find relevant information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.49). Classified as product_issue/billing.,product_issue
+replied,technical,"Based on our support documentation:
+
+While we're constantly updating Claude's data, each model has a knowledge cutoff:",Replied using semantic retrieval (similarity score=0.69). Classified as product_issue/technical.,product_issue
+escalated,general,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as invalid/general.,invalid
+escalated,security,This issue involves sensitive or restricted actions and has been escalated to our support team.,Escalated due to high-risk or restricted request. Classified as product_issue/security.,product_issue
+replied,technical,"Based on our support documentation:
+
+[Contact AWS Support](https://aws.amazon.com/contact-us/) for Claude in Amazon Bedrock support inquiries or reach out to your AWS account manager. For community-based support, visit [AWS re:Post](https://repost.aws/).",Replied using semantic retrieval (similarity score=0.81). Classified as bug/technical.,bug
+replied,account,"Based on our support documentation:
+
+You can delete your HackerRank Community account if you no longer want to use the platform. Deleting your account permanently removes all your data, such as your profile page, earned badges, leaderboard positions, and so on.",Replied using semantic retrieval (similarity score=0.58). Classified as product_issue/account.,product_issue
+replied,technical,"Based on our support documentation:
+
+## Creating Claude LTI Developer Key in Canvas",Replied using semantic retrieval (similarity score=0.58). Classified as product_issue/technical.,product_issue
+escalated,billing,We could not find sufficient information in the help center. Escalating to support.,Escalated due to low retrieval confidence (score=0.54). Classified as product_issue/billing.,product_issue

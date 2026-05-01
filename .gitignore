@@ -4,16 +4,18 @@
 *.pem
 *.key
 
-# deps
-node_modules/
-.pnpm-store/
-.venv/
-venv/
+# python
 __pycache__/
 *.pyc
+.venv/
+venv/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# node (if any)
+node_modules/
+.pnpm-store/
 
 # build
 dist/
@@ -26,17 +28,14 @@ build/
 .vscode/
 Thumbs.db
 
-# local data / caches the participant may create
+# local data / embeddings
+data/
 data/index/
 data/embeddings/
 *.sqlite
 *.db
+embeddings.pkl
+
+# outputs
 log.txt
 code.zip
-data/
-support_tickets/
-node_modules/
-venv/
-.env
-embeddings.pkl
-__pycache__/
